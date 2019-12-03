@@ -29,6 +29,11 @@ build/
 .gradle
 local.properties
 *.iml
+target/
+.classpath
+*.project
+.settings
+*.springBeans
 
 # node.js
 #
